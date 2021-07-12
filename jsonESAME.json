@@ -1,0 +1,251 @@
+{
+    "parchi": [
+      {
+        "nome": "Mirabollandia",
+        "localita": "Simone",
+        "tema": "Acquatico",
+        "tipoAttrazioni": "Per bambini",
+        "numeroPersone": 123,
+        "data": {
+          "popolarita": {
+            "media": 4,
+            "oggi": {
+              "800": {
+                "popolarita": 2,
+                "persone": {
+                  "ingresso": 24,
+                  "uscita": 15,
+                  "attrazioni": [
+                    {
+                      "nome": "tagada",
+                      "coda": 3,
+                      "ingresso": 5,
+                      "uscita": 3
+                    }
+                  ]
+                }
+              },
+              "900": {
+                "popolarita": 3,
+                "persone": {
+                  "ingresso": 37,
+                  "uscita": 10,
+                  "attrazioni": [
+                    {
+                      "nome": "tagada",
+                      "coda": 7,
+                      "ingresso": 13,
+                      "uscita": 6
+                    }
+                  ]
+                }
+              }
+            },
+            "periodi": {
+              "primavera": 0,
+              "estate": {
+                "popolarita": 5,
+                "ingresso": 2452,
+                "uscita": 2213
+              },
+              "autunno": 0,
+              "inverno": 0
+            }
+          }
+        },
+        "orari": {
+          "primavera": {
+            "apertoDa": "01/01",
+            "apertoAl": "31/12",
+            "apertura": {
+              "orari": {
+                "apertura": "9:00",
+                "chiusura": "23:00"
+              }
+            },
+            "chiusura": {
+              "orari": {
+                "apertura": null,
+                "chiusura": null
+              },
+              "periodi": [
+                {
+                  "da": "01/06",
+                  "a": "12/08"
+                },
+                {
+                  "da": "01/02",
+                  "a": "18/03"
+                }
+              ]
+            }
+          },
+          "estate": {
+            "apertoDa": "01/06",
+            "apertoAl": "15/09",
+            "apertura": {
+              "orari": {
+                "apertura": "9:00",
+                "chiusura": "23:00"
+              }
+            },
+            "chiusura": {
+              "orari": {
+                "apertura": null,
+                "chiusura": null
+              },
+              "periodi": [
+                {
+                  "da": "01/06",
+                  "a": "12/08"
+                },
+                {
+                  "da": "01/02",
+                  "a": "18/03"
+                }
+              ]
+            }
+          }
+        },
+        "attrazioni": [
+          {
+            "nome": "tagada",
+            "coda": 23,
+            "descrizione": "Descrzione dell'impianto",
+            "orari": {
+              "apertura": "9:00",
+              "chiusura": "20:30"
+            }
+          }
+        ]
+      },
+      {
+        "nome": "Cartaland",
+        "localita": "Pescheria di Carta",
+        "tema": "Avventura",
+        "tipoAttrazioni": "Per bambini",
+        "numeroPersone": 123,
+        "data": {
+          "popolarita": {
+            "media": 4,
+            "oggi": {
+              "800": {
+                "popolarita": 2,
+                "persone": {
+                  "ingresso": 24,
+                  "uscita": 15,
+                  "attrazioni": [
+                    {
+                      "nome": "tagada",
+                      "coda": 3,
+                      "ingresso": 5,
+                      "uscita": 3
+                    }
+                  ]
+                }
+              },
+              "900": {
+                "popolarita": 3,
+                "persone": {
+                  "ingresso": 37,
+                  "uscita": 10,
+                  "attrazioni": [
+                    {
+                      "nome": "tagada",
+                      "coda": 7,
+                      "ingresso": 13,
+                      "uscita": 6
+                    }
+                  ]
+                }
+              }
+            },
+            "periodi": {
+              "primavera": 0,
+              "estate": {
+                "popolarita": 5,
+                "ingresso": 2452,
+                "uscita": 2213
+              },
+              "autunno": 0,
+              "inverno": 0
+            }
+          }
+        },
+        "orari": {
+          "primavera": {
+            "apertoDa": "01/01",
+            "apertoAl": "31/12",
+            "apertura": {
+              "orari": {
+                "apertura": "9:00",
+                "chiusura": "23:00"
+              }
+            },
+            "chiusura": {
+              "orari": {
+                "apertura": null,
+                "chiusura": null
+              },
+              "periodi": [
+                {
+                  "da": "01/06",
+                  "a": "12/08"
+                },
+                {
+                  "da": "01/02",
+                  "a": "18/03"
+                }
+              ]
+            }
+          },
+          "estate": {
+            "apertoDa": "01/06",
+            "apertoAl": "15/09",
+            "apertura": {
+              "orari": {
+                "apertura": "9:00",
+                "chiusura": "23:00"
+              }
+            },
+            "chiusura": {
+              "orari": {
+                "apertura": null,
+                "chiusura": null
+              },
+              "periodi": [
+                {
+                  "da": "01/06",
+                  "a": "12/08"
+                },
+                {
+                  "da": "01/02",
+                  "a": "18/03"
+                }
+              ]
+            }
+          }
+        },
+        "attrazioni": [
+          {
+            "nome": "tagada",
+            "coda": 23,
+            "descrizione": "Descrzione dell'impianto",
+            "orari": {
+              "apertura": "9:00",
+              "chiusura": "20:30"
+            }
+          },
+          {
+            "nome": "autoscontro",
+            "coda": 12,
+            "descrizione": "Descrzione dell'impianto",
+            "orari": {
+              "apertura": "9:00",
+              "chiusura": "20:30"
+            }
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+// Per errori o lettere mancanti, ci tengo a precisare in anticipo che la tastiera perde colpi //
+
+Il percorso scelto è SVILUPPO
+
+Un punto a cui ho dato importanza è la stuttura JSON, anche se sfortunatamente visto il tempo per fare tutto non è stato possibile ottimizzare al meglio,
+in quanto ho ritenuto necessario sia per il punto "II" che per il punto "III"
+
+CONTENUTO CARTELLA
+- Sviluppo1: punto "I" della consegna
+- simulazioneProvaEsame: punto "II" della consegna
+- CJMesame.png  : immagine rappresentante del CJM
+- jsonESAME.json : struttura JSON utilizzata per i vari punti della consegna
+
+Il testo è stato interpretato in questo modo : 
+
+La richiesta principale è quella di avere una piattaforma dove l'utente finale possa controllare varie informazioni :
+- Parchi disponibili (quindi la località dove si trovano
+- Orari e date in cui aperto
+- Per i vari impianti/attrazioni
+	- Controllare orari di apertura
+	- Controllare il numero di persone in coda, in modo da poter evitare le attrazioni con tempi di attesa troppo lunghi
+
+
+
+API HTTP
+Questa dovrà poter fornire :
+- Dati parco 
+	- Dati generici (nome, località, tema, tipo attrazioni)	
+	- popolarità (per ora del giorno corrente, per periodo)
+	- orari e date apertura
+	- attrazioni disponibili
+		- orari apertura
+		- numero persone in coda
+		- popolarità

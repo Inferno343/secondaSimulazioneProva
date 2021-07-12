@@ -1,0 +1,55 @@
+Per problemi di spazio e formattazione del file ho caricato le risposte sulla piattaforma  HASTEBIN, all'interno dei link c'è il contenuto del response
+
+
+GET /parchi
+
+
+response 
+
+https://hastebin.com/nanocayeni.json
+
+
+
+----------------------------------------------
+
+GET /parchi/:nomeParco
+
+parameters
+	nomeParco :  nome/id del Parco a cui richiedere i dati
+
+response
+
+https://hastebin.com/qotetelobo.json
+
+
+----------------------------------------------
+
+GET /parchi/:nomeParco/data
+
+parameters
+	nomeParco :  nome/id del Parco a cui richiedere i dati
+
+response
+
+https://hastebin.com/wodipusati.yaml
+
+
+----------------------------------------------
+GET /parchi/:nomeParco/orari
+
+parameters
+	nomeParco :  nome/id del Parco a cui richiedere i dati
+
+reponse
+https://hastebin.com/mipuxaluwi.json
+
+
+
+----------------------------------------------
+GET /parchi/:nomeParco/attrazioni
+
+parameters
+	nomeParco :  nome/id del Parco a cui richiedere i dati
+
+response
+https://hastebin.com/rutamazica.json
